@@ -8,6 +8,9 @@ Install all the dependencies using
 # Step 3
 use `flutter run` to start the project
 
+# Video for this project
+`https://drive.google.com/file/d/1KfOv2ytKCa8__46dnwKd5ViH1y7QBNaQ/view?usp=sharing`
+
 # expense_app
 A complete expense app that tracks expenses based on categories and displays the pie chart of categories.
 also displays the line chart for weekly transactions.
